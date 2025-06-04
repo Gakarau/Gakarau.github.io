@@ -1,4 +1,4 @@
-@@ -0,0 +1,100 @@
+
 # Waweru Kevin Gakarau
 
 **Data Analyst | Data Scientist | Data Engineer**  
